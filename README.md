@@ -1,4 +1,4 @@
-[![MasterHead(https://www.canva.com/design/DAGLL2oWse8/ZfoTexujqGFb-f4nHhyu-w/edit?utm_content=DAGLL2oWse8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+![Header](./your-header-image-name.png)
 
 <h1 align="center">Hi 👋, I'm Sadhvi Kesarwani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
