@@ -1,5 +1,10 @@
+![Header](https://github.com/sadhvi1244/sadhvi1244/blob/main/banner.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Sadhvi Kesarwani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+I am a passionate and driven to-be software engineer with expertise in Java programming, and Front-End web development from India.</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadhvi1244&label=Profile%20views&color=0e75b6&style=flat" alt="sadhvi1244" /> </p>
 
@@ -30,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadhvi1244&show_icons=true&locale=en" alt="sadhvi1244" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadhvi1244&" alt="sadhvi1244" /></p>
+<hr>
+<h4>I am eager to collaborate with like-minded professionals and contribute to cutting-edge projects that push the boundaries of technology. If you are looking for a motivated and skilled personality with a passion for front-end development, let's connect!</h4>
