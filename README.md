@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sadhvi Kesarwani</h1>
 <h3 align="center">
-I am a passionate and driven to-be software engineer with expertise in Java programming, and Front-End web development from India.</h3>
+A passionate and driven to-be software engineer with expertise in Java programming, and Front-End web development from India.</h3>
 
 
 
