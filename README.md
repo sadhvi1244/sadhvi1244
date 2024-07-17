@@ -1,4 +1,4 @@
-[![Header](./github-header-image(1).png)]
+![Header](https://github.com/sadhvi1244/sadhvi1244/blob/main/github-header-image%20(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm Sadhvi Kesarwani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img
