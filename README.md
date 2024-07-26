@@ -14,6 +14,10 @@ A passionate and driven to-be software engineer with expertise in Java programmi
 
 - 🌱 I’m currently learning **Reactjs**
 
+- 👨‍💻 All of my projects are available at https://github.com/sadhvi1244
+
+- 📄 Know about my experiences https://www.linkedin.com/in/sadhvi-kesarwani-259915268/
+
 - 📫 How to reach me **Sadhvikesarwani1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
