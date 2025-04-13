@@ -1,4 +1,4 @@
-![Header](https://github.com/sadhvi1244/sadhvi1244/blob/main/banner.png?raw=true)
+![Header](https://github.com/sadhvi1244/sadhvi1244/blob/main/banner01.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Sadhvi Kesarwani</h1>
 <h3 align="center">
