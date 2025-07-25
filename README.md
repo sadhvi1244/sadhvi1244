@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sadhvi Kesarwani</h1>
 <h3 align="center">
-A passionate and driven to-be software engineer with expertise in Java programming, and MERN stack developer from India.</h3>
+A passionate and driven to-be software engineer with expertise in Java programming and MERN stack developer from India.</h3>
 
 
 
